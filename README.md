@@ -41,14 +41,14 @@
         <li>9th Gen Coffee Lake Refresh</li>
     </ul>
     
-    <h3>AMD CPUs</h3>
+ <h3>AMD CPUs</h3>
     <ul>
         <li>Ryzen 5000 Series (Zen 3)</li>
         <li>Ryzen 3000 Series (Zen 2)</li>
         <li>Ryzen 2000 Series (Zen+)</li>
     </ul>
 
-    <h2>DDR5-Compatible CPUs</h2>
+ <h2>DDR5-Compatible CPUs</h2>
     <h3>Intel CPUs</h3>
     <ul>
         <li>14th Gen Raptor Lake Refresh</li>
@@ -56,7 +56,7 @@
         <li>12th Gen Alder Lake (Some models)</li>
     </ul>
     
-    <h3>AMD CPUs</h3>
+   <h3>AMD CPUs</h3>
     <ul>
         <li>Ryzen 7000 Series (Zen 4, DDR5-only)</li>
     </ul>
