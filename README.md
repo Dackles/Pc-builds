@@ -3,15 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DDR4 & DDR5 Compatible CPUs</title>
+<title>DDR4 & DDR5 Compatible CPUs</title>
     <style>
         body {
             font-family: Arial, sans-serif;
             margin: 20px;
             padding: 20px;
             background-color: #f4f4f4;
-        }
-        .container {
+        } .container {
             max-width: 800px;
             background: white;
             padding: 20px;
@@ -32,7 +31,8 @@
 </head>
 <body>
 <div class="container">
-        <h1>DDR4 & DDR5 Compatible CPUs</h1><h2>DDR4-Compatible CPUs</h2>
+    <h1>DDR4 & DDR5 Compatible CPUs</h1>
+    <h2>DDR4-Compatible CPUs</h2>
     <h3>Intel CPUs</h3>
     <ul>
         <li>12th Gen Alder Lake (Some models)</li>
