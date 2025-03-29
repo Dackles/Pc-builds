@@ -31,7 +31,7 @@
     </style>
 </head>
 <body>
-    <div class="container">
+<div class="container">
         <h1>DDR4 & DDR5 Compatible CPUs</h1><h2>DDR4-Compatible CPUs</h2>
     <h3>Intel CPUs</h3>
     <ul>
@@ -39,7 +39,7 @@
         <li>11th Gen Rocket Lake</li>
         <li>10th Gen Comet Lake</li>
         <li>9th Gen Coffee Lake Refresh</li>
-    </ul>
+   </ul>
     
  <h3>AMD CPUs</h3>
     <ul>
